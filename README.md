@@ -1,2 +1,2 @@
-# Reimei
-Mobile Development Project (Geofence Alarm App)
+# Reimei Compass
+Our project, Reimei Compass, is an Android application that leverages geofencing and mapping technologies to deliver smart, location-based reminders and actions. The app is designed to help users remember tasks or important events when they arrive at or leave designated locations. By combining multiple alarms with customizable actions and location-based to-do lists, the app caters to busy professionals, students, and anyone who wants to integrate their reminders with their everyday locations.
